@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
     "@types/react-countup": "^4.3.1",
     "framer": "^2.4.1",
     "git": "^0.1.5",
@@ -16,6 +17,8 @@
     "react": "^18",
     "react-countup": "^6.5.3",
     "react-dom": "^18",
+    "react-icons": "^5.1.0",
+    "reacticon": "^0.0.1",
     "swiper": "^11.1.1"
   },
   "devDependencies": {
